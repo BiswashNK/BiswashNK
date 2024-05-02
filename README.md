@@ -41,8 +41,7 @@ I am a Junior in Computer Science at the  <img src="https://educationusa.state.g
 ---
 
 ### 🔥 My Stats :
-[![Biswash's Stat](https://raw.githubusercontent.com/BiswashNK/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[![Biswash's Stat](https://raw.githubusercontent.com/BiswashNK/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 [![Biswash's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=BiswashNK&theme=dark)](https://leetcode.com/u/BiswashNK/)
 <!-- [![Biswash's Leetcode Stats](https://leetcard.jacoblin.cool/BiswashNK)](https://leetcode.com/BiswashNK) -->
 
