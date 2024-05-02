@@ -39,7 +39,7 @@ I am a Junior in Computer Science at the  <img src="https://educationusa.state.g
 ---
 
 ### 🔥 My Stats :
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Biswash's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=BiswashNK&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **BiswashNK/BiswashNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
