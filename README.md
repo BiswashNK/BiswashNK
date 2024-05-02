@@ -23,7 +23,20 @@
 ---
 ### 👨‍💻: About Me:
 I am a Junior in Computer Science at the  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> University of Louisiana Monroe.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Biswash_Kunwar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biswash-kunwar) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Biswash_Kunwar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biswash-kunwar)
+
+
+---
+
+### 🛠️ Languages and Tools :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+</div>
+
 <!--
 **BiswashNK/BiswashNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
