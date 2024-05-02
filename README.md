@@ -22,7 +22,7 @@
 
 ---
 ### 👨‍💻: About Me:
-I am a Junior in Computer Science at the University of Louisiana Monroe  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ulm.edu%2F&psig=AOvVaw3oC3eV6mQP0xLLcSzABjIM&ust=1714750859464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi44_Gm74UDFQAAAAAdAAAAABAE" width="30"/>.
+I am a Junior in Computer Science at the University of Louisiana Monroe  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="30"/>.
 
 <!--
 **BiswashNK/BiswashNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
