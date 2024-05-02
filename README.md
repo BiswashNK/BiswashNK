@@ -30,11 +30,11 @@ I am a Junior in Computer Science at the  <img src="https://educationusa.state.g
 
 ### 🛠️ Languages and Tools :
 <div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height = "40" width = "40"/>
 </div>
 
 <!--
