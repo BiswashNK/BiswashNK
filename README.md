@@ -23,7 +23,7 @@
 ---
 ### 👨‍💻: About Me:
 I am a Junior in Computer Science at the  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> University of Louisiana Monroe.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Biswash-Kunwar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/biswash-kunwar) 
 <!--
 **BiswashNK/BiswashNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
