@@ -25,7 +25,7 @@
 ---
 ### 👨‍💻: About Me:
 I am a Junior in Computer Science at the  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> University of Louisiana Monroe.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Biswash_Kunwar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biswash-kunwar)] [![Gmail](https://img.shields.io/badge/gmail-blue?logo=gmail&logoColor=red&style=for-the-badge)](<a href="mailto:biswashnursinghkunwar3568@gmail">Send Email</a>)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Biswash_Kunwar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biswash-kunwar)] [![Gmail](https://img.shields.io/badge/gmail-blue?logo=gmail&logoColor=red&style=for-the-badge)](href="mailto:biswashnursinghkunwar3568@gmail")
   
 
 
