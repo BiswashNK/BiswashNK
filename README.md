@@ -50,6 +50,8 @@ I am Biswash Kunwar, a Junior in Computer Science at the  <img src="https://educ
 
 ### 🔥 My Stats :
 ![Biswash's Leetcode stats](https://leetcard.jacoblin.cool/BiswashNK?ext=heatmap)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=biswashNK&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biswashNK&langs_count=5&theme=tokyonight)]()
 
 <!-- [![Biswash's Leetcode Stats](https://leetcard.jacoblin.cool/BiswashNK)](https://leetcode.com/BiswashNK) 
 [![Biswash's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=BiswashNK&theme=dark)](https://leetcode.com/u/BiswashNK/)-->
