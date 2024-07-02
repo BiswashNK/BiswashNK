@@ -38,6 +38,12 @@ I am Biswash Kunwar, a Junior in Computer Science at the  <img src="https://educ
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height = "40" width = "40"/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height = "40" width = "40"/>
+        <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height = "40" width = "40"/>
+                <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height = "40" width = "40"/>
+
 </div>
 
 ---
