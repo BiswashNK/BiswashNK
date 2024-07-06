@@ -26,10 +26,14 @@
       🌱 I am currently learning Data Structures and Algorithms on  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height = "20" width = "20"/> Java.
     </li>
     <li>
+      🔥 I solve problems on <a href="https://leetcode.com/u/BiswashNK/">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
+  </a>
+    <li>
       👀 Take a look at my resume...<a href = "https://drive.google.com/file/d/1JvIv1UNn45sKN64_Qt25pSlWrfNGO8nO/view?usp=drive_link">My Resume</a>
     </li>
     <li>
-      You can always reach out to me via 💬 <a href="https://www.linkedin.com/in/biswash-kunwar">LinkedIn</a> or 📧 <a href="mailto:biswashnursinghkunwar3568@gmail.com">Email</a> 
+     🔗 You can always reach out to me via 💬 <a href="https://www.linkedin.com/in/biswash-kunwar">LinkedIn</a> or 📧 <a href="mailto:biswashnursinghkunwar3568@gmail.com">Email</a> 
     </li>
   </ul>
 </div>
