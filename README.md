@@ -17,6 +17,22 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="left">
+  <ul>
+    <li>
+     👨‍💻 I am currently working on building an <a href="https://github.com/biswashNK">Algorithm Visualizer</a> using Java, SWING, and AWT implementing the key concepts on different sorting algorithms and binary tree traversals.
+    </li>
+    <li>
+      🌱 I am currently learning Data Structures and Algorithms on  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height = "20" width = "20"/> Java.
+    </li>
+    <li>
+      👀 Take a look at my resume...<a href = "https://drive.google.com/file/d/1JvIv1UNn45sKN64_Qt25pSlWrfNGO8nO/view?usp=drive_link">My Resume</a>
+    </li>
+    <li>
+      You can always reach out to me via 💬 <a href="https://www.linkedin.com/in/biswash-kunwar">LinkedIn</a> or 📧 <a href="mailto:biswashnursinghkunwar3568@gmail.com">Email</a> 
+    </li>
+  </ul>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
