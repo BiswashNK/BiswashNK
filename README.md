@@ -27,7 +27,7 @@
     </li>
     <li>
       🔥 I solve problems on <a href="https://leetcode.com/u/BiswashNK/">
-    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" height="20px"/>
   </a>
     <li>
       👀 Take a look at my resume...<a href = "https://drive.google.com/file/d/1JvIv1UNn45sKN64_Qt25pSlWrfNGO8nO/view?usp=drive_link">My Resume</a>
