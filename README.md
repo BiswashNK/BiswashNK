@@ -49,7 +49,7 @@
 ---
 ### 👨‍💻: About Me:
 I am Biswash Kunwar, a Junior in Computer Science at the  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> University of Louisiana Monroe.
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/-Biswash_Kunwar-blue?style=flat&logo=Linkedin&logoColor=white" height="30" width="120"/>](https://www.linkedin.com/in/biswash-kunwar) <a href="mailto:biswashnursinghkunwar3568@gmail.com"><img src="https://img.shields.io/badge/gmail-blue?logo=gmail&logoColor=red&style=for-the-badge"></a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/biswash-kunwar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:biswashnursinghkunwar3568@gmail.com"><img src="https://img.shields.io/badge/gmail-blue?logo=gmail&logoColor=red&style=for-the-badge"></a> <a href="https://www.instagram.com/biswashnursinghkunwar/"><img src = "https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
   
 
 
