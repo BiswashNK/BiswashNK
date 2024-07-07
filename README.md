@@ -30,6 +30,9 @@
       🌱 I am currently learning Data Structures and Algorithms on  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height = "20" width = "20"/> Java.
     </li>
     <li>
+      💻 Interested in learning more about <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" height="10px"/> .NET
+    </li>
+    <li>
       🔥 I solve problems on <a href="https://leetcode.com/u/BiswashNK/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" height="20px"/>
   </a>
