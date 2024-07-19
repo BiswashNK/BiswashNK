@@ -62,6 +62,7 @@ I am Biswash Kunwar, a Junior in Computer Science at the  <img src="https://educ
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/csharp.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height = "40" width = "40"/>
