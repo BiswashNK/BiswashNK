@@ -64,7 +64,11 @@ I am Biswash Kunwar, a Junior in Computer Science at the  <img src="https://educ
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height = "40" width = "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height = "40" width = "40"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height = "40" width= "40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height= "40" width="40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" height = "40" width = "40"/>
+  <img src = "https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" height = "40" width="40" />
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height = "40" width = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height = "40" width = "40"/>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height = "40" width = "40"/>
