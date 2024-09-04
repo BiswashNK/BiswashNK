@@ -27,9 +27,6 @@
      👨‍💻 I am currently working on building a Full Stack Task Management Web Application using <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height= "15" width="15"/> ASP.NET Core,<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="15" width="15"/> Angular and <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" height="15" width="15"/> SQL database.
     </li>
     <li>
-      🌱 I am currently learning Data Structures and Algorithms 
-    </li>
-    <li>
       🔥 I solve problems on <a href="https://leetcode.com/u/BiswashNK/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" height="20px"/> 
     </a>
