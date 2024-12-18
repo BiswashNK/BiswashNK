@@ -24,14 +24,23 @@
 <div align="left">
   <ul>
     <li>
-     👨‍💻 I am currently working on building a Full Stack Task Management Web Application using <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height= "15" width="15"/> ASP.NET Core,<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="15" width="15"/> Angular and <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" height="15" width="15"/> SQL database.
+ 🖋️ I am currently authoring a research paper on adversarial attack to be presented on 22nd International Conference on Information Technology: New Generations (ITNG 2025)
+      </li>
+    <li>
+     🙂 I am a  <img src = "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*neG4D9C8UcJvNn6bverfIA.png" height = "30" width = "40"/> AWS Certified Cloud practitioner.   
     </li>
+    <li>
+      🥇 I represented the University of Louisiana Monroe at ICPC Regional Programming Contest and secured the first place in Louisiana State.
+      </li>
 <!--     <li>
+     👨‍💻 I am currently working on building a Full Stack Task Management Web Application using <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height= "15" width="15"/> ASP.NET Core,<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="15" width="15"/> Angular and <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" height="15" width="15"/> SQL database.
+    </li> -->
+    <li>
       🔥 I solve problems on <a href="https://leetcode.com/u/BiswashNK/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" height="20px"/> 
     </a>
       and I mostly code the solutions in  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height = "20" width = "20"/> Java.
-    </li> -->
+    </li>
     <li>
       👀 Take a look at my resume...<a href = "https://drive.google.com/file/d/1JvIv1UNn45sKN64_Qt25pSlWrfNGO8nO/view?usp=drive_link">My Resume</a>
     </li>
