@@ -26,7 +26,7 @@
 
 ---
 ### 👨‍💻: About Me:
-I am Biswash Kunwar, a Junior in Computer Science at the  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> University of Louisiana Monroe. 
+I am Biswash Kunwar, a Senior in Computer Science at the  <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> University of Louisiana Monroe. 
 
 ### 🏆 Key Achievements
 <div>
