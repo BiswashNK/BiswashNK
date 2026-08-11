@@ -1,112 +1,114 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:A8D8B9,50:8EC5D6,100:B8A9D9&height=200&section=header&text=Biswash%20Kunwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20AI%20Systems%20%26%20Cloud&descAlignY=75&descSize=16"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://biswashkunwar.com">
-    <img src="https://img.shields.io/badge/Portfolio-emerald?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8EC5D6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/biswash-kunwar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-A8D8B9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:biswashnursinghkunwar3568@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  <a href="mailto:biswashkunwar81@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-B8A9D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BiswashNK&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=BiswashNK&style=flat-square&color=8EC5D6" alt="Profile Views"/>
 </div>
 
-<h1 align="center">
-  Hey there 👋 I'm <span style="color:#00C4CC;">Biswash Kunwar</span>
-</h1>
+---
+
+<div align="center">
+
+### 🌿 About Me
+
+*"Like tending a garden, good software grows one careful decision at a time."*
+
+Software Engineer building backend systems, multi-agent AI pipelines, and cloud infrastructure.
+B.S. Computer Science (Honors), University of Louisiana at Monroe — GPA 3.80.
+Published AI researcher, ITNG 2025 (Springer) — SAAB, a SHAP-guided adversarial defense framework.
+AWS Certified Developer Associate, Solutions Architect Associate, and AI Practitioner.
+ICPC 2024 Louisiana State Champion (Gold Medal).
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Skills
 
-🎓 **Senior Computer Science (Honors)** student at the <img src="https://educationusa.state.gov/sites/default/files/field_hei_logo/ulm_logo.png" width="15" height="15"/> **University of Louisiana Monroe**  
-💡 Passionate about **AI Systems, Full-Stack Development, and Cloud Infrastructure**  
-🚀 Building **GenAI-powered systems** and deploying **production-ready apps** with **FastAPI, React, and Docker**  
-📚 Published AI researcher at **ITNG 2025 (Springer)** on adversarial vulnerability detection (SAAB framework)  
-🌎 Currently interning at **Interco Trading Co.**, scaling real-time warehouse systems in production  
+**🤖 AI & ML**
 
----
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-A8D8B9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-A8D8B9?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-A8D8B9?style=flat-square)
 
-### 🏆 Highlights
+**⚙️ Backend**
 
-- 🥇 **ICPC 2024 Louisiana Champion** — 1st Place in the South Central USA Regional Contest  
-- 📄 **Published Paper** — “Software Vulnerability Detection with Adversarial Attacks” *(Springer, 2025)*  
-- ☁️ **AWS Certified Cloud Practitioner** — EC2, S3, Lambda, IAM, CloudFront  
-- 💬 **Speaker & GDG Secretary** — Directed events & hackathons for 250+ students  
-- 💻 **300+ LeetCode Problems Solved** — Consistent problem-solver with algorithmic depth  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-8EC5D6?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-8EC5D6?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-8EC5D6?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8EC5D6?style=flat-square)
 
----
+**☁️ Cloud & DevOps**
 
-### 💼 Experience
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-B8A9D9?style=flat-square)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-B8A9D9?style=flat-square)
 
-#### 🧭 Interco Trading Co. — *Software Engineer Intern* (May 2025 – Present)
-- Built a **React + FastAPI + PostgreSQL** inventory system enabling **real-time warehouse tracking**
-- Modularized raw SQL into **Pythonic service layers** with SQLAlchemy & Pydantic → reduced duplication by 30%
-- Automated CI/CD via **Docker + GitHub Actions + Nginx**, cutting release time from *28m → 7m*
-- Migrated Android frontend from **Kotlin XML → Jetpack Compose**, modernizing UI and accelerating delivery
-- Authored developer **runbooks and API docs**, reducing onboarding time by 40%
+**🗄️ Data**
 
-#### ⚡ Drop Line Electric — *Software Engineer Intern* (Feb 2025 – May 2025)
-- Re-platformed **WordPress → Next.js 15 (TypeScript)** eliminating 16 plugins & 450 KB of blocking assets  
-- Boosted **Lighthouse 60 → 92** and reduced **LCP 3.0s → 1.3s** using edge caching + next/image  
-- Improved SEO with structured metadata & dynamic sitemaps, leading to **+18% organic clicks**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-F4C6A5?style=flat-square)
+![APM](https://img.shields.io/badge/APM-F4C6A5?style=flat-square)
 
----
+**🎨 Frontend**
 
-### 🧠 Featured Projects
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![AG Grid](https://img.shields.io/badge/AG%20Grid-D8B8D8?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
-#### 🔍 **OfferMart** — *AI-Powered E-commerce Platform (Next.js / GPT-4 Vision / AWS)*
-> Verified product authenticity via DeepSeek + GPT-4 Vision with 96% accuracy on 1.2K listings  
-> Reduced fraudulent posts by ~40%, deployed on AWS S3 with CI/CD pipelines
+**📝 Languages**
 
-#### 🐾 **Pawfect** — *Shelter Management System (React / Firebase)*
-> Automated scheduling & tracking for 100+ animals with RBAC, CI/CD, and analytics dashboard
-
-#### 🧬 **SAAB-Eval** — *Adversarial Vulnerability Detection Framework (Python / SHAP / BiLSTM)*
-> Implemented SHAP + SVM → BiLSTM + Attention pipeline for adversarial vulnerability detection  
-> Replicated published Top@K ASR and clean/ADV accuracy metrics across Asterisk dataset
-
-#### 🎓 **ClassCraft** — *Academic Planner (Next.js / Selenium / Banner API)*
-> Automated course mapping for 9K+ students using React Flow visualization + automation tests  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frameworks & Libraries**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-**DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI & Data**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-C9DDA8?style=flat-square)
 
 ---
 
@@ -122,18 +124,6 @@
   <img src="https://streak-stats.demolab.com?user=BiswashNK&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-### 🎯 Goals for 2025
-- 🌐 Build a **LangChain-powered RAG microservice** for secure enterprise retrieval  
-- ☁️ Earn **AWS Developer Associate Certification**  
-- 🤖 Contribute to **Open Source GenAI tools**  
-- 💬 Mentor 10+ students via **GDG ULM** workshops  
-
----
-
 <div align="center">
-  <i>“Building AI systems that make software smarter, faster, and safer.”</i>  
-  <br><br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A9D9,50:8EC5D6,100:A8D8B9&height=100&section=footer"/>
 </div>
