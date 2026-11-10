@@ -1,46 +1,28 @@
-<img alt="BiswashNK" src="dark_mode.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/card_light.svg" />
+  <img alt="Biswash Kunwar · AI Engineer · agents, automation, data pipelines" src="assets/card_dark.svg" width="100%" />
+</picture>
 
-# Biswash Kunwar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline_light.svg" />
+  <img alt="ShipHero → Cloud Run → BigQuery → AI agents → Slack and dashboards" src="assets/pipeline_dark.svg" width="100%" />
+</picture>
 
-**AI Engineer** · agents · automation · data pipelines
+```text
+~/now
+├── agents that answer ops questions in Slack
+├── client copilots ─── quotes · shipping labels · order lookups
+├── GCP monorepo ────── deploy only what changed
+└── team AI OS ──────── one shared context for Claude Code, Cursor and Codex
+```
 
-## Now
+```text
+~/desk
+├── Ghostty + zsh
+├── Claude Code with a custom "Tabs" pane
+└── Notion · Slack
+```
 
-- AI Engineer at a 3PL / fulfillment company
-- Building AI agents and copilots on top of warehouse and order data
-- Automating ops work: invoicing, reporting, alerting
-
-## Agents & AI
-
-- **Claude Code**: daily driver, with custom mods, hooks and skills
-- **MCP servers**: connecting agents to the data warehouse, Slack, Notion and internal tools
-- **Team AI OS**: shared context and skills across Claude Code, Cursor and Codex
-- **Hermes Agent**: self-hosted agent runtime
-- **Grok Bot**: Cowork-style AI coworker on xAI Grok
-- **Slack bots**: personal assistant bot plus client-facing copilots (quotes, shipping labels, order lookups)
-
-## Data
-
-- **BigQuery** as the warehouse
-- **ShipHero** WMS data → BigQuery pipelines
-- **Supabase / Postgres** for app data
-- **Power BI** dashboards with API-driven refreshes
-- **Next.js** dashboards and internal portals
-
-## Cloud & DevOps
-
-- **GCP**: Cloud Run, Cloud Functions, Cloud Scheduler, Cloud Monitoring, Secret Manager
-- **GitHub Actions**: CI/CD with Workload Identity Federation, deploy only what changed
-- **Docker** for local dev stacks
-- Monorepo for Cloud Run services and functions
-
-## Languages
-
-- Python
-- TypeScript / JavaScript
-- SQL
-
-## Setup
-
-- **Ghostty** terminal plus a custom Claude Code "Tabs" pane
-- **Notion** and **Slack** for team ops
+<sub>card and pipeline are generated SVGs · <code>python3 scripts/gen.py scripts/portrait.txt assets</code></sub>
